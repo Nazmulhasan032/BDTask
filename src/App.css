@@ -1,0 +1,39 @@
+.m-1.btn {
+    background-color: transparent;
+    border: none;
+}
+
+.m-1.btn:hover {
+    background-color: transparent;
+    /* Change the background color to transparent on hover */
+}
+
+
+
+.dropdown-content li:hover {
+    background-color: transparent;
+    /* Change the background color to transparent on hover */
+}
+
+.slider{
+    width: 25%;
+    height: 8px;
+    background-color: black;
+    
+    margin-bottom: 20px;
+}
+
+.slider .slider-track {
+    height: 6px;
+    background-color: blue;
+  }
+.slider .thumb{
+    width: 23px;
+    height: 23px;
+    cursor: grab;
+    background-color: #fff;
+    border-radius: 50%;
+    border: 2px solid #275efe;
+    top: -7px;
+}
+
